@@ -1,0 +1,15 @@
+{
+  "name": "dogger-web",
+  "version": "0.0.1",
+  "description": "app for dog adoption",
+  "main": "index.ts",
+  "scripts": {
+    "test": "run-test"
+  },
+  "keywords": [
+    "dog",
+    "adoption"
+  ],
+  "author": "WK & RM",
+  "license": "MIT"
+}
